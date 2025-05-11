@@ -1,0 +1,6 @@
+{
+  "name": "Solana Anchor Dev",
+  "image": "ghcr.io/coral-xyz/anchor:latest",
+  "postCreateCommand": "anchor --version && rustup show"
+}
+
